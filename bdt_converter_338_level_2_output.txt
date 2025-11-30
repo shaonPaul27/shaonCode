@@ -1,0 +1,89 @@
+Enter BDT amount: Zero taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 1 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 1 hundred taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 1 thousand taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 9 thousand 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 10 thousand taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 99 thousand 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 1 lac taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 9 lac 99 thousand 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 10 lac taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 99 lac 99 thousand 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 1 crore taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 9 crore 99 lac 99 thousand 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 10 crore taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 12 crore 34 lac 56 thousand 7 hundred and 89 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
+
+Enter BDT amount: Amount in words : 999 crore 99 lac 99 thousand 9 hundred and 99 taka only
+Do you want to convert BDT Amount to English text again?
+For YES, press any number
+For NO, press 0
